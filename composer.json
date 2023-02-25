@@ -1,8 +1,8 @@
 {
-    "name":        "winzou/tnt-express",
+    "name":        "flocondetoile/tnt-express",
     "description": "A PHP client for TNT Express National webservices",
     "keywords":    ["tnt", "webservice", "soap"],
-    "homepage":    "https://github.com/winzou/tnt-express",
+    "homepage":    "https://github.com/flocondetoile/tnt-express",
     "type":        "library",
     "license":     "MIT",
     "authors": [
